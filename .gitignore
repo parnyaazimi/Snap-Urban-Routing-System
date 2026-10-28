@@ -1,0 +1,48 @@
+# Compiled executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Debug symbols and profiling output
+*.pdb
+*.ilk
+*.prof
+*.gcda
+*.gcno
+
+# Visual Studio Code local settings
+.vscode/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Build and temporary directories
+build/
+bin/
+obj/
+out/
+tmp/
+temp/
+
+# Logs
+*.log
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.bkp
+*~
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+#reports
+*.pdf
+*.docx
